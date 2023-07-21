@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Karma;
+    src: url(../Project44.html/Karma-Medium.ttf);
+  }
+
+  @font-face {
+    font-family: Kameron;
+    src: url(../Proj44/Kameron-Regular.ttf);
+  }
+
+  body{
+    background-image: url("Desktop_-_1.png");
+    margin:  0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1350px;
+    height: 955px;
+  }
+
+ .box{
+  position: relative;
+ }
+
+.ali{
+  position: absolute;
+  margin-top: -395px;
+  margin-left: -340px;
+    
+}
+
+
+nav{ 
+margin-top: -400px;
+word-spacing: 80px;
+margin-left: -20px;
+    
+   
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 28px;
+    font-family: Karma;
+    
+}
+
+#one{
+  position: absolute;
+  color: #FFFFFF;
+  margin-top: 400px;
+  font-size: 26px;
+  margin-left: -146px;
+  font-family: Kameron;
+}
+
+#two{
+ position: absolute;
+  color: #FFFFFF;
+  margin-top: 435px;
+  font-size: 26px;
+  margin-left: -146px;
+  font-family: Kameron;
+  opacity: 0.6;
+}
+
+#three{
+  position: absolute;
+   color: #FFFFFF;
+   margin-top: 470px;
+   font-size: 26px;
+   margin-left: -146px;
+   font-family: Kameron;
+   opacity: 0.3;  
+ }
+
+ #four{
+  position: absolute;
+   color: #FFFFFF;
+   margin-top: 505px;
+   font-size: 26px;
+   margin-left: -146px;
+   font-family: Kameron;
+   opacity: 0.1;  
+ }
+
+ #first{
+  position: absolute;
+  color: #FFFFFF;
+  margin-left: -146px;
+  margin-top: 550px;
+  font-family: Karma;
+  font-size: 23px;
+ }
+
+ .arr{
+  position: absolute;
+  color: #FFFFFF;
+  margin-left: -15px;
+  margin-top: 557px;
+  font-family: Karma;
+  font-size: 23px;
+ }
+
+ footer{
+  position: absolute;
+  color: #FFFFFF;
+  margin-left: -330px;
+  margin-top: 670px;
+  font-family: Karma;
+ }
+
+ #js{
+  font-family: Karma;
+  font-size: 29px;
+}
+
+ .dot1{
+  position: absolute;
+  height: 7px;
+  width: 7px;
+  background-color: #bbb;
+  border-radius: 50%;
+  margin-left: -10px ;
+  margin-top:-9px;
+  }
+
+ 
+  #sub{
+    font-family: Karma;
+    font-size: 25px;
+    margin-top: -21px;
+    margin-left: 12px;
+  } 
+
+  .dot2{
+    position: absolute;
+    height: 7px;
+    width: 7px;
+    background-color: #bbb;
+    border-radius: 50%;
+    margin-left: -10px ;
+    margin-top:-4px;
+    }
+
+    #man{
+      font-family: Karma;
+      font-size: 25px;
+      margin-top: -17px;
+      margin-left: 12px;
+    } 
+
+    .ins{
+     position: absolute;
+     margin-top: 785px;
+     margin-left: 800px;
+    }
+
+    .fac{
+      position: absolute;
+     margin-top: 785px;
+     margin-left: 842.5px;
+    }
+
+    .mail{
+      position: absolute;
+     margin-top: 785px;
+     margin-left: 885px;
+    }
